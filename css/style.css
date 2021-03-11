@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+.mos1 h3{
+	font-size:22px;
+	margin-bottom:10px;
+}
+.s1 img{
+	width:150px; height:auto;
+	float:left; margin-right:10px;
+}
+.s1 h5{
+	font-size:16px;
+}
+.s1 p{
+	text-align:justify
+}
+.mos2 p{
+	text-align:justify;
+}
+.z{
+	background-color:#FFFFFF;
+	border:1px solid #ededed;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius:7px;
+}
+.a2{
+	border-radius:20px;
+}
+.p1{
+	font-style: oblique
+}
+.f1{
+	background-color:#FC911A
+}
+.carousel-indicators li{
+	width:15px;
+	height:15px;
+	border-radius:50%;
+}
+.carousel-indicators li {
+    border: 2px solid #666;
+}
+.carousel-indicators {
+    bottom: -42px;
+}
+.carousel-indicators .active {
+    background-color: #000;
+}
+
